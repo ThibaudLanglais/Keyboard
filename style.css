@@ -15,7 +15,7 @@ body{
    /* grid-template-columns: 1fr 1fr; */
    align-items: center;
    justify-content: center;
-   height: 85%;
+   height: 100%;
 }
 img{
    width: 100%;
